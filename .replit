@@ -1,0 +1,4 @@
+language = "nodejs"
+run = "node index.js"
+
+#si lo vais a usar en replit
